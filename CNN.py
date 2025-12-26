@@ -21,7 +21,7 @@ Notes:
   - MNIST downloads automatically via torchvision.
   - For best results, keep the input as a centered digit on a black background.
 """
-
+# 大功告成！！
 import argparse
 import os
 import random
